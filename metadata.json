@@ -1,0 +1,7 @@
+{
+  "name": "Studio Whoon 2d",
+  "description": "Transformeer technische 2D-plattegronden naar sfeervolle visualisaties met realistische materialen en verlichting, terwijl de indeling behouden blijft.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
